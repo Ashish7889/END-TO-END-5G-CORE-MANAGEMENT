@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>5G Core Management Dashboard</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <header>
+    <div>
+      <h1>5G Core Management</h1>
+      <p>End-to-end observability across UE, session, and NF state</p>
+    </div>
+    <div class="config-panel">
+      <label>
+        API Base URL
+        <input id="baseUrl" type="text" value="http://localhost:8009/mgmt" />
+      </label>
+      <label>
+        API Key
+        <input id="apiKey" type="password" value="super-secret-admin-key" />
+      </label>
+      <button id="refreshBtn">Refresh</button>
+    </div>
+  </header>
+
+  <main>
+    <section id="overview" class="card">
+      <h2>Overview Metrics</h2>
+      <div class="grid stats">
+        <div>
+          <p>Total UEs</p>
+          <strong id="totalUes">-</strong>
+        </div>
+        <div>
+          <p>Registered UEs</p>
+          <strong id="registeredUes">-</strong>
+        </div>
+        <div>
+          <p>Total Sessions</p>
+          <strong id="totalSessions">-</strong>
+        </div>
+        <div>
+          <p>Active Sessions</p>
+          <strong id="activeSessions">-</strong>
+        </div>
+      </div>
+      <div class="grid two-cols">
+        <div>
+          <h3>Slice Distribution</h3>
+          <ul id="sliceDistribution" class="list"></ul>
+        </div>
+        <div>
+          <h3>NF Status</h3>
+          <ul id="nfStatus" class="list"></ul>
+        </div>
+      </div>
+      <div>
+        <h3>UPF Metrics</h3>
+        <pre id="upfMetrics" class="pre-block">-</pre>
+      </div>
+    </section>
+
+    <section class="card">
+      <div class="card-header">
+        <h2>UEs</h2>
+        <button class="small" data-target="ues">Refresh</button>
+      </div>
+      <table id="uesTable">
+        <thead>
+          <tr>
+            <th>UE ID</th>
+            <th>IMSI</th>
+            <th>State</th>
+            <th>Slice</th>
+            <th>Last Seen</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </section>
+
+    <section class="card">
+      <div class="card-header">
+        <h2>PDU Sessions</h2>
+        <button class="small" data-target="sessions">Refresh</button>
+      </div>
+      <table id="sessionsTable">
+        <thead>
+          <tr>
+            <th>Session ID</th>
+            <th>UE ID</th>
+            <th>Slice</th>
+            <th>Status</th>
+            <th>UPF Session</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </section>
+
+    <section class="card">
+      <div class="card-header">
+        <h2>Network Functions</h2>
+        <button class="small" data-target="nfs">Refresh</button>
+      </div>
+      <table id="nfsTable">
+        <thead>
+          <tr>
+            <th>Type</th>
+            <th>Name</th>
+            <th>Status</th>
+            <th>Endpoint</th>
+            <th>Last Heartbeat</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </section>
+  </main>
+
+  <footer>
+    <small>5G Core Management Prototype &copy; 2025</small>
+  </footer>
+
+  <script src="app.js" type="module"></script>
+</body>
+
+</html>
