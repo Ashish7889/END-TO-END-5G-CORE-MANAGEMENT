@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>API Test</title>
+</head>
+<body>
+    <h1>API Test</h1>
+    <div id="result"></div>
+    
+    <script>
+        async function testAPI() {
+            const baseUrl = 'http://localhost:8009/mgmt';
+            const apiKey = 'super-secret-admin-key';
+            
+            try {
+                const response = await fetch(`${baseUrl}/overview`, {
+                    headers: {
+                        'X-API-Key': apiKey
+                    }
+                });
+                
+                const result = document.getElementById('result');
+                if (response.ok) {
+                    const data = await response.json();
+                    result.innerHTML = `<pre>${JSON.stringify(data, null, 2)}</pre>`;
+                    result.style.color = 'green';
+                } else {
+                    result.textContent = `Error: ${response.status} - ${await response.text()}`;
+                    result.style.color = 'red';
+                }
+            } catch (error) {
+                document.getElementById('result').textContent = `Error: ${error.message}`;
+                document.getElementById('result').style.color = 'red';
+            }
+        }
+        
+        testAPI();
+    </script>
+</body>
+</html>

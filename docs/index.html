@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>5G Core Management Dashboard</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <header>
+    <div>
+      <h1>5G Core Management</h1>
+      <p>End-to-end observability across UE, session, and NF state</p>
+    </div>
+    <div class="api-config">
+      <div class="demo-notice">
+        <h3> 5G Core Management Dashboard - Demo Mode</h3>
+        <p>This is a demonstration of the 5G Core Management Dashboard with simulated real-time data.</p>
+        <p><strong>Features:</strong> NF Heartbeat • Log Viewer • PDU Session Timeline • Alerts Panel</p>
+        <p>For the complete backend implementation, visit the <a href="https://github.com/Ashish7889/END-TO-END-5G-CORE-MANAGEMENT" target="_blank">GitHub repository</a>.</p>
+      </div>
+    </div>
+    <button id="refreshBtn">Refresh</button>
+  </header>
+
+  <main>
+    <section id="overview" class="card">
+      <h2>Overview Metrics</h2>
+      <div class="grid stats">
+        <div>
+          <p>Total UEs</p>
+          <strong id="totalUes">-</strong>
+        </div>
+        <div>
+          <p>Registered UEs</p>
+          <strong id="registeredUes">-</strong>
+        </div>
+        <div>
+          <p>Total Sessions</p>
+          <strong id="totalSessions">-</strong>
+        </div>
+        <div>
+          <p>Active Sessions</p>
+          <strong id="activeSessions">-</strong>
+        </div>
+      </div>
+      <div class="grid two-cols">
+        <div>
+          <h3>Slice Distribution</h3>
+          <ul id="sliceDistribution" class="list"></ul>
+        </div>
+        <div>
+          <h3>NF Status</h3>
+          <ul id="nfStatus" class="list"></ul>
+        </div>
+      </div>
+      <div>
+        <h3>UPF Metrics</h3>
+        <pre id="upfMetrics" class="pre-block">-</pre>
+      </div>
+    </section>
+
+    <section class="card">
+      <div class="card-header">
+        <h2>UEs</h2>
+        <button class="small" data-target="ues">Refresh</button>
+      </div>
+      <table id="uesTable">
+        <thead>
+          <tr>
+            <th>UE ID</th>
+            <th>IMSI</th>
+            <th>State</th>
+            <th>Slice</th>
+            <th>Last Seen</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </section>
+
+    <section class="card">
+      <div class="card-header">
+        <h2>PDU Sessions</h2>
+        <button class="small" data-target="sessions">Refresh</button>
+      </div>
+      <table id="sessionsTable">
+        <thead>
+          <tr>
+            <th>Session ID</th>
+            <th>UE ID</th>
+            <th>Slice</th>
+            <th>Status</th>
+            <th>UPF Session</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </section>
+
+    <section class="card">
+      <div class="card-header">
+        <h2>Network Functions</h2>
+        <button class="small" data-target="nfs">Refresh</button>
+      </div>
+      <table id="nfsTable">
+        <thead>
+          <tr>
+            <th>Type</th>
+            <th>Name</th>
+            <th>Status</th>
+            <th>Endpoint</th>
+            <th>Last Heartbeat</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </section>
+
+    <section class="card">
+      <div class="card">
+      <h2>Network Slices</h2>
+      <button onclick="loadSlices()">Refresh Slices</button>
+      <table id="slicesTable">
+        <thead>
+          <tr>
+            <th>Slice ID</th>
+            <th>Sessions</th>
+            <th>Active</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </main>
+
+  <section class="graphs-section">
+    <div class="card">
+      <h2>Real-time Metrics</h2>
+      <div class="graph-container">
+        <canvas id="metricsChart"></canvas>
+      </div>
+    </div>
+    <div class="card">
+      <h2>Session Distribution</h2>
+      <div class="graph-container">
+        <canvas id="sessionChart"></canvas>
+      </div>
+    </div>
+    <div class="card">
+      <h2>NF Status Overview</h2>
+      <div class="graph-container">
+        <canvas id="nfChart"></canvas>
+      </div>
+    </div>
+  </section>
+
+  <!-- Advanced Components Section -->
+    <section class="advanced-section">
+      <!-- NF Heartbeat Table -->
+      <div class="card">
+        <h2>Network Function Heartbeat</h2>
+        <div class="table-container">
+          <table id="heartbeatTable">
+            <thead>
+              <tr>
+                <th>Status</th>
+                <th>Name</th>
+                <th>Type</th>
+                <th>Endpoint</th>
+                <th>Last Heartbeat</th>
+              </tr>
+            </thead>
+            <tbody>
+              <!-- Data will be populated here -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- Log Viewer -->
+      <div class="card">
+        <h2>System Logs</h2>
+        <div class="log-tabs">
+          <button class="tab-btn active" data-tab="amf">AMF Logs</button>
+          <button class="tab-btn" data-tab="smf">SMF Logs</button>
+          <button class="tab-btn" data-tab="upf">UPF Logs</button>
+        </div>
+        <div class="log-container">
+          <div id="amf-logs" class="log-content active"></div>
+          <div id="smf-logs" class="log-content"></div>
+          <div id="upf-logs" class="log-content"></div>
+        </div>
+      </div>
+
+      <!-- PDU Session Timeline -->
+      <div class="card">
+        <h2>PDU Session Timeline</h2>
+        <div class="timeline-container">
+          <canvas id="timelineChart"></canvas>
+        </div>
+      </div>
+
+      <!-- Alerts Panel -->
+      <div class="card">
+        <h2>System Alerts</h2>
+        <div class="alerts-container" id="alertsContainer">
+          <!-- Alerts will be populated here -->
+        </div>
+      </div>
+    </section>
+
+    <footer>
+    <small>5G Core Management Prototype &copy; 2025</small>
+  </footer>
+
+  <script src="app.js" type="module"></script>
+</body>
+
+</html>
