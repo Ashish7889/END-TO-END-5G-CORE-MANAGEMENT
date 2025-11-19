@@ -5,6 +5,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>5G Core Management Dashboard</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <link rel="stylesheet" href="styles.css" />
 </head>
 
@@ -120,9 +121,101 @@
         <tbody></tbody>
       </table>
     </section>
+
+    <section class="card">
+      <div class="card">
+      <h2>Network Slices</h2>
+      <button onclick="loadSlices()">Refresh Slices</button>
+      <table id="slicesTable">
+        <thead>
+          <tr>
+            <th>Slice ID</th>
+            <th>Sessions</th>
+            <th>Active</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
   </main>
 
-  <footer>
+  <section class="graphs-section">
+    <div class="card">
+      <h2>Real-time Metrics</h2>
+      <div class="graph-container">
+        <canvas id="metricsChart"></canvas>
+      </div>
+    </div>
+    <div class="card">
+      <h2>Session Distribution</h2>
+      <div class="graph-container">
+        <canvas id="sessionChart"></canvas>
+      </div>
+    </div>
+    <div class="card">
+      <h2>NF Status Overview</h2>
+      <div class="graph-container">
+        <canvas id="nfChart"></canvas>
+      </div>
+    </div>
+  </section>
+
+  <!-- Advanced Components Section -->
+    <section class="advanced-section">
+      <!-- NF Heartbeat Table -->
+      <div class="card">
+        <h2>Network Function Heartbeat</h2>
+        <div class="table-container">
+          <table id="heartbeatTable">
+            <thead>
+              <tr>
+                <th>Status</th>
+                <th>Name</th>
+                <th>Type</th>
+                <th>Endpoint</th>
+                <th>Last Heartbeat</th>
+              </tr>
+            </thead>
+            <tbody>
+              <!-- Data will be populated here -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- Log Viewer -->
+      <div class="card">
+        <h2>System Logs</h2>
+        <div class="log-tabs">
+          <button class="tab-btn active" data-tab="amf">AMF Logs</button>
+          <button class="tab-btn" data-tab="smf">SMF Logs</button>
+          <button class="tab-btn" data-tab="upf">UPF Logs</button>
+        </div>
+        <div class="log-container">
+          <div id="amf-logs" class="log-content active"></div>
+          <div id="smf-logs" class="log-content"></div>
+          <div id="upf-logs" class="log-content"></div>
+        </div>
+      </div>
+
+      <!-- PDU Session Timeline -->
+      <div class="card">
+        <h2>PDU Session Timeline</h2>
+        <div class="timeline-container">
+          <canvas id="timelineChart"></canvas>
+        </div>
+      </div>
+
+      <!-- Alerts Panel -->
+      <div class="card">
+        <h2>System Alerts</h2>
+        <div class="alerts-container" id="alertsContainer">
+          <!-- Alerts will be populated here -->
+        </div>
+      </div>
+    </section>
+
+    <footer>
     <small>5G Core Management Prototype &copy; 2025</small>
   </footer>
 

@@ -1,0 +1,2190 @@
+INFO:     Will watch for changes in these directories: ['/home/ashish/CascadeProjects/5g-core-mgmt']
+INFO:     Uvicorn running on http://0.0.0.0:8005 (Press CTRL+C to quit)
+INFO:     Started reloader process [22658] using WatchFiles
+INFO:     Started server process [22676]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:45708 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45696 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45714 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46030 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46034 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46038 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35158 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35166 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35156 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38602 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38588 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38610 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38614 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38612 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38616 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43350 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43362 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43378 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55416 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55434 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55418 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55420 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55448 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54714 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54712 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54724 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60548 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60560 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60554 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58012 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58000 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57994 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50456 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50464 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50460 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40740 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40750 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40762 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44638 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44632 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44616 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43724 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43728 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43734 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43830 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43844 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43846 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57494 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57496 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57506 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37498 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37496 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37504 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53836 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53822 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53826 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53848 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53862 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53874 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45456 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45468 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45472 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36388 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36414 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36400 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36018 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36022 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36028 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50960 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50944 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50966 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41482 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41492 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41508 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41504 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40724 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40740 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40738 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39384 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39398 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39404 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40730 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40746 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40760 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48406 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48402 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48408 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48314 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48312 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48300 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50406 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50422 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50430 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45028 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45022 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45018 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45044 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45048 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45058 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51202 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51222 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51214 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51226 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51238 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51254 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51262 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51272 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51280 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51286 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51302 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51306 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56096 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56104 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56118 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54994 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55000 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55010 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58994 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59010 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58992 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42980 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42994 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42996 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48470 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48452 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48454 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43688 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43682 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43690 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43696 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43698 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43704 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52404 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52408 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52414 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52424 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52448 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52432 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35010 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35012 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35022 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35040 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35034 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35038 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38752 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38742 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38730 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38762 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38758 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38768 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57020 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57032 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57044 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57050 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57062 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57068 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44258 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44268 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44280 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44310 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44294 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44302 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34126 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34154 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34140 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34170 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34184 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34188 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56770 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56782 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56796 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56810 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56826 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56830 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43540 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43524 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43510 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43544 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43560 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43562 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42454 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42462 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42472 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42474 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42478 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42480 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44014 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44026 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44034 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44050 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44072 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44056 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51472 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51496 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51488 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51512 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51508 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51500 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58166 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58154 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58168 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58178 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58176 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58190 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56032 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56028 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56020 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56038 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56052 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56056 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59098 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59084 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59112 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59152 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59128 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59136 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59154 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59176 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59170 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45148 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45162 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45156 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45164 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45168 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45184 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41246 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41252 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41268 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41270 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41302 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41286 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48774 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48790 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48780 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48812 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48798 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48822 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53222 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53216 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53226 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53230 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53232 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53244 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37980 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38004 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37990 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38012 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38026 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38034 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57832 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57830 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57824 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57846 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57860 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57874 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51996 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51988 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52010 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41184 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41168 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41200 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41210 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41214 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41230 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44766 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44784 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44772 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44798 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44816 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44812 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40290 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40292 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40298 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40312 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40320 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40316 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47148 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47158 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47150 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47174 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47192 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47182 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39250 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39236 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39260 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39290 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39276 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39302 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51992 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52008 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52002 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52022 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52020 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52012 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35230 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35258 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35242 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35272 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35280 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35286 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38974 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38968 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38964 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38986 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39002 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39018 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48634 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48648 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48662 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48664 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48678 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48690 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34692 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34680 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34706 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34746 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34730 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34718 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44798 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44784 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44782 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44810 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44824 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44830 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52730 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52744 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52756 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52770 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52768 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52786 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40308 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40326 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40316 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40332 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40348 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40352 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54862 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54846 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54878 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54880 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54902 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54886 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37244 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37238 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37224 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37266 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37258 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37268 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41974 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41994 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41980 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42018 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42008 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42020 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37588 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37582 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37602 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37614 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37612 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37606 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44858 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44864 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44868 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44890 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44884 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44892 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41658 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41668 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41662 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41696 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41674 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41690 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45370 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45380 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45382 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45388 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45408 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45400 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43288 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43280 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43290 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43304 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43332 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43320 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53368 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53380 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53394 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53400 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53424 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53410 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41314 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41320 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41334 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41340 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41364 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41350 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54080 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54096 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54092 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54114 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54108 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54126 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48120 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48132 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48138 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48142 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48152 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48156 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41906 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41912 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41924 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41934 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41950 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41952 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43242 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43238 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43254 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43276 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43278 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43268 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43292 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43304 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56096 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56106 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56118 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56132 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56142 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56146 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52348 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52360 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52354 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52364 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52376 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52392 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33394 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33386 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33410 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33416 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33432 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33418 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52702 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52706 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52700 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52718 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52732 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52722 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54782 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54788 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54798 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54818 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54830 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54814 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56854 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56872 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56856 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56880 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56882 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56884 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46866 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46886 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46870 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46890 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46892 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46904 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56814 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56790 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56800 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56822 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56836 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56840 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56626 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56642 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56648 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56656 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56670 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56680 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42180 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42190 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42188 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42198 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42218 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42210 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35032 - "POST /sessions HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:35032 - "POST /sessions HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:35032 - "POST /sessions HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:35040 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35056 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35070 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35078 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35088 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35098 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56108 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56116 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56120 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56134 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56140 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56152 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56166 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33012 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33016 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33018 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33034 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33056 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33044 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44530 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44518 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44546 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44566 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44558 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44576 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59620 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59632 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59650 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59642 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59654 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59674 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59662 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47528 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47520 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47544 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47554 - "POST /smf/sessions HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:47554 - "POST /smf/sessions HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:47554 - "POST /smf/sessions HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:47576 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47562 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47556 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52958 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52962 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52976 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52978 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52982 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52986 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37076 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37078 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37088 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37106 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37100 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37118 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39556 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39560 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39568 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39590 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39576 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39604 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41068 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41084 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41090 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41094 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41110 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41124 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47162 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47164 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47158 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47180 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47184 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47186 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53974 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53984 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53998 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54028 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54014 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54020 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39820 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39828 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39844 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39848 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39864 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39872 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35768 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35772 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35770 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35802 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35780 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35790 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49752 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49758 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49764 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49780 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49786 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49802 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47896 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47916 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47902 - "POST /smf/sessions HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 399, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 70, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/fastapi/routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/fastapi/routing.py", line 191, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/backend/smf/routers/session.py", line 21, in create_pdu_session
+    return await orchestrate_pdu_session(payload=payload, session=session)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/backend/smf/services/manager.py", line 17, in orchestrate_pdu_session
+    slice_resp = await request_slice_selection(payload.requested_slice)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/backend/smf/services/clients.py", line 20, in request_slice_selection
+    response.raise_for_status()
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/httpx/_models.py", line 761, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '404 Not Found' for url 'http://localhost:8002/nssf/select-slice'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+INFO:     127.0.0.1:47910 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47930 - "POST /smf/sessions HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 399, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 70, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/fastapi/routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/fastapi/routing.py", line 191, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/backend/smf/routers/session.py", line 21, in create_pdu_session
+    return await orchestrate_pdu_session(payload=payload, session=session)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/backend/smf/services/manager.py", line 17, in orchestrate_pdu_session
+    slice_resp = await request_slice_selection(payload.requested_slice)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/backend/smf/services/clients.py", line 20, in request_slice_selection
+    response.raise_for_status()
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/httpx/_models.py", line 761, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '404 Not Found' for url 'http://localhost:8002/nssf/select-slice'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+INFO:     127.0.0.1:47934 - "POST /smf/sessions HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 399, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 70, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/fastapi/routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/fastapi/routing.py", line 191, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/backend/smf/routers/session.py", line 21, in create_pdu_session
+    return await orchestrate_pdu_session(payload=payload, session=session)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/backend/smf/services/manager.py", line 17, in orchestrate_pdu_session
+    slice_resp = await request_slice_selection(payload.requested_slice)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/backend/smf/services/clients.py", line 20, in request_slice_selection
+    response.raise_for_status()
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/httpx/_models.py", line 761, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '404 Not Found' for url 'http://localhost:8002/nssf/select-slice'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+INFO:     127.0.0.1:47944 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47958 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47970 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49612 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49614 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49616 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49642 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49620 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49634 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36712 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36724 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36698 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36736 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36748 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36752 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41618 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41632 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41628 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41642 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41648 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41652 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33484 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33500 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33506 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33510 - "POST /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33510 - "POST /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33510 - "POST /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33526 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33534 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33532 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60658 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60674 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60690 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60702 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60710 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60714 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60730 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60720 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60718 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57068 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57072 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57062 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57098 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57102 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57082 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54002 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54012 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54022 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54046 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54030 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54058 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59696 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59706 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59720 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59726 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59722 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59742 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59754 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59758 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59774 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36900 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36888 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36890 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36908 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36916 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36918 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36932 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36942 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36946 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45030 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45046 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45056 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45070 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45084 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45100 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45108 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45122 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45132 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45134 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45148 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51766 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51788 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51782 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51790 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51792 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51804 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51808 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40704 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40714 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40718 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40732 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40748 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40754 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35808 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35824 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35828 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35848 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35834 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35852 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52414 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52402 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52430 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52440 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52460 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52450 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43410 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43398 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43396 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43412 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43422 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43414 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49208 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49230 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49222 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49244 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49254 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49258 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55296 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55328 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55312 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55330 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55356 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55340 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41168 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41174 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41180 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41192 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41220 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41208 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52312 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52322 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52330 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52336 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52356 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52340 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52372 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54392 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54408 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54422 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54424 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54416 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54442 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54430 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54444 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54452 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54466 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54478 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54490 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54492 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54496 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54502 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54518 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54534 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54546 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54554 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54550 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54568 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54556 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54576 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50530 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50538 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50556 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50544 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50596 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50580 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50568 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38942 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38944 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38950 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38972 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38986 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38960 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56834 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56818 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56840 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56856 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56870 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56884 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57874 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57888 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57904 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57908 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57914 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57918 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57920 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57934 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57944 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59872 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59866 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59884 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59894 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59910 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59892 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38908 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38924 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38926 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38942 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38952 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38964 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46876 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46880 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46888 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46894 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46922 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46908 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41222 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41214 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41220 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51668 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51652 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51670 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51676 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51690 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51678 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38818 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38810 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38812 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38826 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38840 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38830 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38850 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38870 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38862 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60428 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60440 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60452 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60470 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60458 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60484 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49372 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49388 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49368 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49392 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49394 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49400 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41268 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41270 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41284 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41286 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41302 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41304 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38610 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38624 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38614 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38638 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38650 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38658 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50072 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50078 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50084 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50094 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38806 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50090 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38810 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38824 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38828 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48152 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48164 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48174 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48190 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48212 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48198 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48216 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48220 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48226 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48236 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48262 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48246 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55150 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55158 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55166 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55198 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55182 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55202 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55214 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55228 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55230 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36514 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36536 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36526 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36552 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36554 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36560 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36576 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36586 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36580 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40592 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40590 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40598 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40628 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40604 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40616 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40640 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40646 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40662 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40678 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40694 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40698 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40690 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40682 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40700 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57536 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57538 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57542 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57562 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57550 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57566 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57582 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57598 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57602 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57610 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57620 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57628 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57638 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57652 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57660 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41568 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41584 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41582 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41600 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41598 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41602 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41614 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41622 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41624 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45944 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45954 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45960 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45962 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45964 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45966 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45982 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45998 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46010 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46012 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46024 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46020 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46046 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46042 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46040 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46060 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46090 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46074 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39498 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39486 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39496 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39502 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39504 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39508 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39520 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39518 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39526 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39538 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39548 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39570 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39560 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52182 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39578 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52190 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52204 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52192 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52202 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52218 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52232 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52248 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59666 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59654 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59652 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59680 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59692 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59688 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59698 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59702 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59694 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39044 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39024 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39032 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39060 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39076 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39090 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39104 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39098 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39094 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44626 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44630 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44640 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44642 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44658 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44672 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44686 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44680 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44690 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58154 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58158 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58172 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58198 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58186 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58204 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58210 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58212 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58224 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39674 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39680 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39688 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39710 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39694 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39706 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39716 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39720 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39724 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50182 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50196 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50188 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50212 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50228 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50220 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50240 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50258 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50252 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54460 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54472 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54480 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54482 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54502 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54494 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54516 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54530 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54520 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39696 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39708 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39716 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39718 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39724 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39722 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39734 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39738 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39752 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40140 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40158 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40146 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40166 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40188 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40174 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40194 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40202 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40214 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51186 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51202 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51194 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51228 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51244 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51216 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51252 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51272 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51258 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53514 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53510 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53516 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53540 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53530 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53548 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41376 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41378 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41392 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41402 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41426 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41414 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41438 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41452 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41446 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55980 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55970 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55982 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55996 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55988 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56006 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56026 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56016 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56042 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49774 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49754 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49766 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49792 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49788 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49802 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49828 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49812 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49836 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42330 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42346 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42316 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42372 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42360 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42376 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42388 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42408 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42402 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43146 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43134 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43152 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43166 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43170 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43184 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43192 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43204 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43186 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41200 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41202 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41214 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41218 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41232 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41220 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41242 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41270 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41258 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50994 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50996 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51000 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51004 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51022 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51010 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51048 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51032 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51060 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45888 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45912 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45898 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45926 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45932 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45934 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45940 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45948 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45950 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45966 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45976 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45978 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45982 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43774 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43790 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43796 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43804 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43814 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43830 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43844 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43826 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43854 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43856 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43866 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43880 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43896 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43902 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43914 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43938 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43926 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40654 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40664 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40646 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40686 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40670 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40700 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40706 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40710 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40708 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34728 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34734 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34732 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34752 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34766 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34740 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34770 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34780 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34782 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41092 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41104 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41118 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41132 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41138 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41146 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41170 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41164 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41154 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59900 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59884 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59908 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59924 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59910 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59934 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59946 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59958 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59940 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52012 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52010 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52014 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52018 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52032 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52040 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52050 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52060 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52074 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51276 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51284 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51282 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51300 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51290 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51292 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51318 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51322 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51306 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58234 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58240 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58250 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58290 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58280 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58266 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58292 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58308 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58306 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40334 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40348 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40358 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40360 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40364 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40374 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40376 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40390 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40396 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49566 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49582 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49584 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49596 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49604 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49616 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49628 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49634 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49632 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52640 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52618 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52628 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52654 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52668 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52684 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52696 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52710 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52704 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59946 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59954 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59930 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59974 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59962 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59960 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59984 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59986 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60002 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58750 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58754 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58748 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58768 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58774 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58776 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58800 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58814 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58786 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33640 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33612 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33628 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33652 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33654 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33670 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33684 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33682 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33686 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53868 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53870 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53878 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53888 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53890 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53906 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53916 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53928 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53936 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49610 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49626 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49638 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49648 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49658 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49666 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49678 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49688 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49698 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58140 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58128 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58152 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58170 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58178 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58164 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58198 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58188 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58210 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50420 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50434 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50440 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50450 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50464 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50452 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50470 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50480 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50466 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41346 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41324 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41334 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41362 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41364 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41368 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41374 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41390 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41406 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41428 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41416 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41438 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34788 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34806 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34818 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34794 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34836 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34826 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34850 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34854 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34864 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34872 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34900 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34888 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47656 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47644 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47652 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47662 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47672 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47668 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47676 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47686 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47680 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59746 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59734 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59748 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59762 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59766 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59770 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59772 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59790 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59780 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51376 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51350 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51364 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51384 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51388 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51400 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51408 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51416 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51422 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49468 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49450 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49456 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49484 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49500 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49502 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33274 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33282 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33292 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33298 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33302 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33294 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33312 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33316 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33318 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35788 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35800 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35812 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35828 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35832 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35848 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35864 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35858 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35872 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56304 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56288 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56298 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56346 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56320 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56332 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56354 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56368 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56378 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50052 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50064 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50058 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50074 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50078 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50084 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50094 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50114 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50100 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38468 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38474 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38484 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38508 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38516 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38496 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38518 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38534 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38538 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55748 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55762 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55754 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55764 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55792 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55778 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55800 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55802 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55810 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42946 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42962 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42978 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42990 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42998 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43014 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43026 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43048 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43032 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51492 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51502 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51514 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51524 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51548 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51532 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51552 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51566 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51578 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58586 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58608 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58602 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58646 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58622 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58630 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58650 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58660 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58666 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52336 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52358 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52342 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52364 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52380 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52382 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52388 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52396 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52394 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48310 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48316 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48326 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48336 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48340 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48342 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48356 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48358 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48362 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35654 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35664 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35646 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35672 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35674 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35680 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35686 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35690 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35702 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50520 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50494 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50506 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50524 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50536 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50532 - "GET /smf/sessions HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'backend/management/schemas/heartbeat.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [22676]
+WARNING:  WatchFiles detected changes in 'backend/management/schemas/heartbeat.py'. Reloading...
+INFO:     Started server process [38696]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'backend/management/schemas/logs.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [38696]
+WARNING:  WatchFiles detected changes in 'backend/management/schemas/logs.py'. Reloading...
+INFO:     Started server process [38804]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'backend/management/schemas/timeline.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [38804]
+WARNING:  WatchFiles detected changes in 'backend/management/schemas/timeline.py'. Reloading...
+INFO:     Started server process [38916]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'backend/management/schemas/alerts.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [38916]
+WARNING:  WatchFiles detected changes in 'backend/management/schemas/alerts.py'. Reloading...
+INFO:     Started server process [38984]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [39084]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:42302 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42320 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42312 - "GET /smf/sessions HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'backend/management/routers/advanced.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [39084]
+WARNING:  WatchFiles detected changes in 'backend/management/routers/advanced.py'. Reloading...
+INFO:     Started server process [39217]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:60726 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60714 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60738 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60740 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60746 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60750 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60764 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60770 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60772 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60798 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60786 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60812 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60832 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60824 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60836 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60844 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60860 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60842 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60872 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60898 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60896 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60882 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60912 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60926 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60914 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60932 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60950 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60940 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60960 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60982 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60974 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60988 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32774 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60994 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32776 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32790 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32796 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32794 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32798 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32806 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32822 - "GET /smf/sessions HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'backend/management/main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [39217]
+INFO:     Started server process [39550]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:53086 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53092 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53094 - "GET /smf/sessions HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'backend/management/main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [39550]
+INFO:     Started server process [39659]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:52156 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52168 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52162 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48600 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48616 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48620 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50516 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50506 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50514 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46048 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46076 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46062 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54392 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54408 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54400 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60994 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60992 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32778 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59418 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59408 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59434 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35936 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35962 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35950 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59004 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59026 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59010 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59054 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59068 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59042 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39580 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39554 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39568 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39604 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39620 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39592 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39636 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39644 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39658 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39430 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39428 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39418 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39444 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39436 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39450 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39466 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39472 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39478 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51942 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51956 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51952 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51964 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51972 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51986 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52010 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51998 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52002 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46848 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46822 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46836 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46858 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46870 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46878 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46898 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46892 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46910 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41140 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41124 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41154 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41164 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41180 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41188 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41202 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41206 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41222 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52386 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52398 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52402 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52422 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52414 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52432 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52444 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52448 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52462 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55228 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55232 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55246 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55256 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55260 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55248 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55264 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55272 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55284 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58960 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58962 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58972 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58986 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58998 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59008 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59010 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59026 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59024 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46828 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46836 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46832 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46852 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46858 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46848 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46884 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46890 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46870 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45828 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45832 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45840 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45846 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45864 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45860 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45884 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45868 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45882 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43612 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43622 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43614 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43640 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43642 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43636 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43650 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43664 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43662 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53640 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53656 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53654 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53668 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53676 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53690 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53704 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53718 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53732 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57324 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57344 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57330 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57348 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57360 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57350 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57372 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57386 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57396 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55642 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55664 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55656 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55670 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55672 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55678 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55690 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55702 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55698 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37474 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37488 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37462 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37500 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37508 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37520 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37522 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37536 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37552 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57480 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57498 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57484 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57504 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57506 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57516 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57544 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57528 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57546 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57554 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57576 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57568 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49914 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49920 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49922 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49938 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49948 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49928 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49972 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49988 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49958 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54980 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54988 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55004 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55018 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55022 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55024 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55062 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55038 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55050 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45632 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45612 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45624 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45638 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45654 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45670 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45702 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45680 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45692 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33806 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33816 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33826 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33836 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33840 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33850 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33866 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33854 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33872 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50742 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50748 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50730 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50764 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50776 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50784 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56872 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56864 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56880 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56890 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56900 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56916 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56928 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56930 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56936 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49332 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49338 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49342 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49350 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49348 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49354 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49360 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49362 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49378 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33460 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33450 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33476 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33478 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33484 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33494 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33502 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33506 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33504 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40978 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40980 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40994 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41000 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41008 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41006 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41020 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41022 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41030 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52930 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52920 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52936 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52944 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52956 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52968 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52974 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52982 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52990 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50720 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50744 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50730 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50754 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50756 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50770 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50784 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50796 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50794 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50360 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50372 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50384 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50398 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50402 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50414 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50428 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50448 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50434 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48674 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48688 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48704 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48720 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48750 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48736 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48762 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48774 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48790 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57672 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57676 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57678 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57696 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57704 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57680 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57714 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57736 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57728 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51606 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51624 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51614 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51636 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51646 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51644 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55152 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55140 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55154 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55156 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55166 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55182 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55186 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55192 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55206 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40544 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40558 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40564 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40590 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40574 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40602 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40612 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40620 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40622 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40416 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40412 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40430 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40452 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40444 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40454 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42488 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42474 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42504 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42512 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42524 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42534 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47118 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47126 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47120 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47142 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47144 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47154 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47160 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47178 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47170 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50840 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50844 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50854 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50876 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50872 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50860 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50880 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50908 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50892 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45108 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45116 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45120 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45130 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45162 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45146 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45170 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45176 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45188 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52644 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52638 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52646 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52654 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52670 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52684 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52686 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52702 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52688 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56098 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56100 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56116 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56126 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56128 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56140 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56148 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56144 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56156 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52388 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52400 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52416 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52432 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52446 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52454 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52462 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52476 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52482 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34178 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34196 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34182 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34200 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34210 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34220 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39636 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39652 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39668 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39678 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39696 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39694 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39712 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39734 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39722 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57330 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57340 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57352 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57358 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57374 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57364 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57384 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57404 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57394 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47600 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47598 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47596 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47608 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47612 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47620 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47656 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47642 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47634 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41618 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41646 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41630 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41656 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41664 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41668 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48702 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48722 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48706 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48728 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48740 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48750 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48790 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48764 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48778 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36932 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36940 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36942 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36954 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36956 - "GET /smf/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36964 - "GET /smf/sessions HTTP/1.1" 200 OK

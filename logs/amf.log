@@ -1,0 +1,1528 @@
+INFO:     Will watch for changes in these directories: ['/home/ashish/CascadeProjects/5g-core-mgmt']
+INFO:     Uvicorn running on http://0.0.0.0:8001 (Press CTRL+C to quit)
+INFO:     Started reloader process [22656] using WatchFiles
+INFO:     Started server process [22674]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:59182 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59190 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56892 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56904 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49034 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49046 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57674 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57668 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57688 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57694 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57698 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57728 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57732 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60578 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60584 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60586 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60596 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42270 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42260 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54178 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54188 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51370 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51382 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33160 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33172 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38296 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38302 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58650 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58654 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58812 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58800 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56880 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56890 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43216 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43222 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56914 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56924 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39206 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39212 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39226 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39234 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36310 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36302 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52776 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52784 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33820 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33834 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39906 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39912 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54004 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54010 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54020 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54036 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35478 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35492 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52856 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52866 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54516 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54506 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43438 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43446 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39112 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39106 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46396 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46400 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46886 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46894 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54630 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54616 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54638 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54648 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54650 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54652 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54654 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54658 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49856 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49868 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55720 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55724 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51470 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51472 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43484 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43498 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48996 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49000 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57374 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57390 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57410 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57404 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44482 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44476 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44486 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44502 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59704 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59718 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59720 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59732 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55694 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55706 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55720 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55724 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39808 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39818 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39830 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39836 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55598 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55608 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55634 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55620 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40604 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40600 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40616 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40622 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49070 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49074 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49090 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49106 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35694 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35684 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35710 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35726 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42338 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42332 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42340 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42350 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57884 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57870 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57898 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57908 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38524 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38540 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38556 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38562 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37938 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37954 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37966 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37968 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57298 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57308 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57310 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57314 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57320 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37912 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37924 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37940 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37956 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37962 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37964 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57134 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57144 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57156 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57164 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33426 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33428 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33430 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33432 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34016 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34024 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34034 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34028 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39392 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39400 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39410 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39408 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51644 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51646 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51662 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51678 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37750 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37758 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37770 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37782 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41756 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41766 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41012 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41004 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41020 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41036 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59858 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59868 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59878 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59886 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59012 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59018 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59022 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59036 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53834 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53850 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53852 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53856 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47294 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47282 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47302 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47316 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38606 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38592 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38616 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38624 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38700 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38712 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38734 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38728 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52494 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52500 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52516 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52530 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48006 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48010 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48012 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33410 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33412 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33422 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33438 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49666 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49662 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49670 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49678 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57700 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57688 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57712 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57716 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58504 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58520 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58528 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58540 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44636 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44646 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44678 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44662 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37248 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37256 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37284 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37270 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35778 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35794 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35800 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35816 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34872 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34864 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34886 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34896 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51584 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51586 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51602 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51592 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34534 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34536 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34548 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34554 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50998 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50996 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51002 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51018 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60914 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60920 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60934 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60944 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36958 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36974 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36988 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37002 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47832 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47838 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47848 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47858 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42618 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42608 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42626 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42638 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49538 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49542 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49552 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49560 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46734 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46736 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46744 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46756 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46776 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46770 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46788 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46792 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56338 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56354 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56364 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56372 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56386 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58976 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58990 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59006 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59020 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45442 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45432 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45452 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45468 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59702 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59712 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59724 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59718 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51486 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51492 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51504 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51508 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42126 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42136 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42150 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42162 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42866 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42870 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42878 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42890 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54394 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54396 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54412 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54416 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39884 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39894 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39924 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39908 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60830 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60814 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60858 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60846 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57428 - "POST /ue/register HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57428 - "POST /ue/register HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57428 - "POST /ue/register HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57444 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57448 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57462 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57472 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46004 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46016 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46020 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46034 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46036 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46044 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46978 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46990 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47002 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47008 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55378 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55368 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55394 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55384 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51024 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51036 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51040 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51056 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34746 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34756 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34770 - "POST /amf/ue/register HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 399, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 70, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/fastapi/routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/fastapi/routing.py", line 191, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/backend/amf/routers/ue.py", line 19, in register_ue
+    auth_response = await authenticate_with_udm(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/backend/amf/services/auth.py", line 14, in authenticate_with_udm
+    response.raise_for_status()
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/httpx/_models.py", line 761, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '404 Not Found' for url 'http://localhost:8010/auth/ue-auth'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+INFO:     127.0.0.1:34776 - "POST /amf/ue/register HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 399, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 70, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/fastapi/routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/fastapi/routing.py", line 191, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/backend/amf/routers/ue.py", line 19, in register_ue
+    auth_response = await authenticate_with_udm(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/backend/amf/services/auth.py", line 14, in authenticate_with_udm
+    response.raise_for_status()
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/httpx/_models.py", line 761, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '404 Not Found' for url 'http://localhost:8010/auth/ue-auth'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+INFO:     127.0.0.1:34792 - "POST /amf/ue/register HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 399, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 70, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/fastapi/routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/fastapi/routing.py", line 191, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/backend/amf/routers/ue.py", line 19, in register_ue
+    auth_response = await authenticate_with_udm(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/backend/amf/services/auth.py", line 14, in authenticate_with_udm
+    response.raise_for_status()
+  File "/home/ashish/CascadeProjects/5g-core-mgmt/.venv/lib/python3.12/site-packages/httpx/_models.py", line 761, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '404 Not Found' for url 'http://localhost:8010/auth/ue-auth'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+INFO:     127.0.0.1:34804 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34812 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56254 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56268 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56284 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56294 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37896 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37908 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37918 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37928 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34730 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34738 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34752 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34768 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35554 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35568 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35590 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35582 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40240 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40228 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40242 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40244 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55842 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55848 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55862 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55874 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60674 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60688 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60702 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60714 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52418 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52434 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52460 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52450 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41936 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41938 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41950 - "POST /amf/ue/register HTTP/1.1" 201 Created
+INFO:     127.0.0.1:41950 - "POST /amf/ue/register HTTP/1.1" 201 Created
+INFO:     127.0.0.1:41950 - "POST /amf/ue/register HTTP/1.1" 201 Created
+INFO:     127.0.0.1:41958 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41972 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35450 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35442 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35462 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35460 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38342 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38356 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38364 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38358 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53334 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53336 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53338 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53346 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48038 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48024 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48050 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48066 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45780 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45794 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45808 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45814 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32814 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32826 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32832 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32844 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32858 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32868 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58944 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58956 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58960 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58972 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33364 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33358 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33370 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33368 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60448 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60456 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60462 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60478 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60482 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60486 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39634 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39650 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39662 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39668 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39676 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39682 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41672 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41686 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41698 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41694 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41714 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36284 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36298 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36304 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36308 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36322 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36338 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36354 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59142 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59144 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59162 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59154 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58970 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58982 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58994 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58996 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53490 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53476 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53504 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53516 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51644 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51658 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51672 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51670 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56934 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56944 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56960 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56976 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53944 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53952 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53956 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53960 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47400 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47412 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47418 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47414 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40888 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40896 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40906 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40918 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40928 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48484 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48508 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48494 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48520 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48550 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48536 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48558 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48560 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48574 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48580 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48584 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48614 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48598 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48624 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48640 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57668 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57672 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57680 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57686 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38860 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38876 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38884 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38890 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38480 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38468 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38492 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38496 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43834 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43838 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43840 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43854 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43856 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43866 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43878 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43888 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43894 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43896 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43910 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41702 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41710 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41722 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41728 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50152 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50160 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50172 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50184 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50712 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50728 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50738 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50746 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47000 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47002 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60044 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60048 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60070 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60064 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60078 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40316 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40332 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40326 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40334 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40342 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51680 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51684 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51686 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51700 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49840 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49856 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49862 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49872 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53116 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53132 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53136 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53144 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32842 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32850 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32876 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32864 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57658 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57674 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56472 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56456 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56474 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56480 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42586 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42582 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42590 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42594 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42602 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42604 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42626 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42612 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54440 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54442 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54454 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54470 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54482 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54472 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56072 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56062 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56084 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56092 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56108 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56122 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33554 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33564 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33568 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33578 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33586 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33596 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33604 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33620 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33610 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33624 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33626 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33640 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47096 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47098 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47102 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47106 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47120 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47136 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47156 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47142 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40588 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40596 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40614 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40602 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40624 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40634 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48350 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48360 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48374 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48386 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48396 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48406 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48416 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48428 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48434 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48432 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48436 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48452 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39172 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39188 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39194 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39208 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39222 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39228 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39238 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39254 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39256 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39270 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39286 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39302 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50010 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39304 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50020 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50028 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50040 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50044 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51118 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51116 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51134 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51138 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51160 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51146 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36198 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36200 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36214 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36218 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36242 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36234 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49336 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49340 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49342 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49348 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49358 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49362 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47502 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47518 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47544 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47528 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47558 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47570 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47502 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47498 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47514 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47516 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47524 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47538 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40794 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40806 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40810 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40814 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40846 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40830 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56270 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56254 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56284 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56296 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56300 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56308 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34002 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34004 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34010 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34024 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34036 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34046 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50418 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50428 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50442 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50454 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50458 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50470 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59132 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59142 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59162 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59152 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59166 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59180 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44080 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44088 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44104 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44110 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48588 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48592 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48600 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48614 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48616 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48624 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56158 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56166 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56170 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56178 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56192 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56180 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34200 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34202 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34218 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34230 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34236 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34244 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43548 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43540 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43580 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43564 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43604 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43588 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51784 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51772 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51800 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51796 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51804 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51812 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47500 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47510 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47526 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47540 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47550 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47552 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59160 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59166 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59168 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59178 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59190 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59202 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44418 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44434 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44438 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44448 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44452 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44460 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44474 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44488 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60630 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60634 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60652 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60642 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60656 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60672 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60688 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60702 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60714 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60722 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55120 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55126 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55138 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55146 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55154 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55156 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50924 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50938 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50946 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50948 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50950 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50960 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34436 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34446 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34456 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34462 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34474 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34476 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41982 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41998 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42002 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42008 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42026 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42018 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38738 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38742 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38760 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38758 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38772 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38780 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39568 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39580 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39596 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39604 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39626 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39618 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42412 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42426 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42434 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42440 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42452 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42458 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52034 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52018 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52048 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52052 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52060 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52070 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33524 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33538 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33546 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33562 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33592 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33578 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59554 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59564 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59580 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59584 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59592 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59598 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43744 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43752 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43776 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43762 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43792 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43780 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58712 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58698 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58736 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58726 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58758 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58748 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49838 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49854 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49866 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49864 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49876 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49870 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49986 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49990 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50002 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50006 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50016 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50028 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57152 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57150 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57166 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57176 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57184 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57178 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58160 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58164 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58180 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58192 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58216 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58200 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57544 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57554 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57558 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57564 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57566 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57570 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43254 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43258 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43264 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43272 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43278 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43280 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43288 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43302 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60098 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60106 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60112 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60116 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60120 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60124 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42434 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42440 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42458 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42444 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42470 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42482 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33510 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33514 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33516 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33524 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33538 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33554 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38642 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38652 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38668 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38664 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38670 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38684 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39202 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39208 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39230 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39220 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49056 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49054 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49064 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49060 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49066 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49070 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38892 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38898 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38912 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38914 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38932 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38918 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42378 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42384 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42386 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42390 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42394 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42408 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39702 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39710 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39714 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39722 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39736 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39738 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36714 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36718 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36720 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36732 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36744 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36754 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58222 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58224 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58232 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58238 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58244 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58242 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56844 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56860 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56874 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56890 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56894 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56896 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47938 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47946 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47962 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47972 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47980 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47992 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46808 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46820 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46828 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46830 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46832 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46838 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34322 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34338 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34344 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34342 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34350 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34358 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40416 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40428 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40438 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40452 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40466 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40482 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50840 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50850 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50860 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50868 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50870 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50872 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33226 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33238 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33252 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33262 - "GET /amf/ues HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'backend/management/schemas/heartbeat.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [22674]
+WARNING:  WatchFiles detected changes in 'backend/management/schemas/heartbeat.py'. Reloading...
+INFO:     Started server process [38701]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'backend/management/schemas/logs.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [38701]
+WARNING:  WatchFiles detected changes in 'backend/management/schemas/logs.py'. Reloading...
+WARNING:  WatchFiles detected changes in 'backend/management/schemas/timeline.py'. Reloading...
+INFO:     Started server process [38805]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'backend/management/schemas/timeline.py'. Reloading...
+WARNING:  WatchFiles detected changes in 'backend/management/schemas/alerts.py'. Reloading...
+INFO:     Started server process [38913]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'backend/management/schemas/alerts.py'. Reloading...
+INFO:     Started server process [39013]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [39103]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:55482 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55480 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55488 - "GET /amf/ues HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'backend/management/routers/advanced.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [39103]
+WARNING:  WatchFiles detected changes in 'backend/management/routers/advanced.py'. Reloading...
+INFO:     Started server process [39218]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:45286 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45298 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45320 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45308 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45326 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45340 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45352 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45350 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45362 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45376 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45388 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45386 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45396 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45406 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45416 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45408 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45418 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45424 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45428 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45430 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45442 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45446 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45454 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45456 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45466 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45480 - "GET /amf/ues HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'backend/management/main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [39218]
+INFO:     Started server process [39553]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:43946 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43962 - "GET /amf/ues HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'backend/management/main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [39553]
+INFO:     Started server process [39665]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:60974 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60960 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43908 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43892 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44936 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44924 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60332 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60340 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60768 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60770 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49000 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49002 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49184 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49170 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43298 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43314 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55544 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55548 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55566 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55564 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50320 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50306 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50322 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50336 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50346 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50348 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36364 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36362 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36374 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36378 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36384 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36398 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36716 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36732 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36740 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36756 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36764 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36772 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51814 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51826 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51830 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51838 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51848 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51858 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43234 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43250 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43252 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43262 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43270 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43282 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34760 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34768 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34786 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34778 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34802 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34816 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57292 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57302 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57318 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57314 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57324 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57332 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56316 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56318 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56320 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56334 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56348 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56358 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51058 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51064 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51094 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51080 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51104 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51120 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54668 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54680 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54696 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54698 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54724 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54714 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35348 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35350 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35370 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35358 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35376 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35378 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59844 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59834 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59862 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59852 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59878 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59892 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48670 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48682 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48690 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48684 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48700 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48696 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53632 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53638 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53648 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53646 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53662 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53664 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56226 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56232 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56242 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56240 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56250 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56264 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51780 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51784 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51800 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51806 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51836 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51822 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51838 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51844 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47888 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47874 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47904 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47920 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47938 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47926 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36010 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36012 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36014 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36018 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36020 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36026 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56402 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56406 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56420 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56436 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56454 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56442 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54388 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54394 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54398 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54414 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54420 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54434 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42786 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42788 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42804 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42810 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58116 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58102 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58122 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58128 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58132 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58144 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43604 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43592 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43614 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43624 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43636 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43638 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36036 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36046 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36052 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36062 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36076 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36074 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44830 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44836 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44848 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44850 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44864 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44862 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47778 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47792 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47794 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47810 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47826 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47836 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60200 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60202 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60216 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60206 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60220 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60236 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45746 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45754 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45760 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45766 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45768 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45782 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53900 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53894 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53914 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53930 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53944 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53960 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43388 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43392 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43398 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43414 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43420 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43436 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33386 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33388 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33398 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33408 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47494 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47484 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47510 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47522 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47538 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47542 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38980 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38968 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38984 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38994 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39004 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39008 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51256 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51272 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51280 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51286 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54808 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54816 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54822 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54838 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50726 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50728 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50742 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50748 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50762 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50764 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35474 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35482 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35488 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35492 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35508 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35518 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40002 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40006 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40024 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40014 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40038 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40052 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44068 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44066 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44076 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44084 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44096 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44104 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54630 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54636 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54640 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54642 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54648 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54646 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56714 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56726 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56736 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56750 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56764 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56760 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34222 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34232 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34244 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34254 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34410 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34402 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34414 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34424 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34428 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34434 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34492 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34494 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34524 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34508 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34536 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34540 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43384 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43388 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43392 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43394 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43406 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43408 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52374 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52386 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52414 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52400 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51986 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51970 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52006 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51992 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52020 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52034 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48832 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48838 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48842 - "GET /amf/ues HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48848 - "GET /amf/ues HTTP/1.1" 200 OK

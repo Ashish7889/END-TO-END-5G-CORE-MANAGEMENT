@@ -32,3 +32,34 @@ async def get_sessions() -> list[SessionInfo]:
 @router.get("/nfs-status")
 async def get_nfs_status() -> dict:
     return await summarize_nfs()
+
+
+@router.get("/slices")
+async def get_slices() -> list[dict]:
+    """Get slice information from sessions"""
+    sessions = await collect_sessions()
+    slice_counts = {}
+    for session in sessions:
+        slice_id = session.slice_id
+        if slice_id not in slice_counts:
+            slice_counts[slice_id] = {
+                "slice_id": slice_id,
+                "session_count": 0,
+                "active_sessions": 0,
+                "ues": set()
+            }
+        slice_counts[slice_id]["session_count"] += 1
+        if session.status == "ACTIVE":
+            slice_counts[slice_id]["active_sessions"] += 1
+        slice_counts[slice_id]["ues"].add(session.ue_id)
+    
+    # Convert sets to counts
+    result = []
+    for slice_data in slice_counts.values():
+        result.append({
+            "slice_id": slice_data["slice_id"],
+            "session_count": slice_data["session_count"],
+            "active_sessions": slice_data["active_sessions"],
+            "ue_count": len(slice_data["ues"])
+        })
+    return result

@@ -22,7 +22,8 @@ async def orchestrate_pdu_session(
 
     pdu_session = await create_session(session=session, payload=payload, slice_id=slice_resp.slice_id)
 
-    try:\n        upf_response = await setup_upf_tunnel(
+    try:
+        upf_response = await setup_upf_tunnel(
             UPFSessionCreate(
                 pdu_session_id=pdu_session.id,
                 ue_id=payload.ue_id,

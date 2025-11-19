@@ -1,0 +1,71 @@
+INFO:     Will watch for changes in these directories: ['/home/ashish/CascadeProjects/5g-core-mgmt']
+INFO:     Uvicorn running on http://0.0.0.0:8010 (Press CTRL+C to quit)
+INFO:     Started reloader process [22666] using WatchFiles
+INFO:     Started server process [22680]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:52964 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60820 - "POST /auth/ue-auth HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:60836 - "POST /auth/ue-auth HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:60848 - "POST /auth/ue-auth HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46440 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49630 - "POST /auth/ue-auth HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49636 - "POST /auth/subscribers HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:40668 - "POST /auth/subscribers HTTP/1.1" 201 Created
+INFO:     127.0.0.1:40672 - "POST /auth/subscribers HTTP/1.1" 201 Created
+INFO:     127.0.0.1:40680 - "POST /auth/subscribers HTTP/1.1" 201 Created
+INFO:     127.0.0.1:45432 - "POST /auth/ue-auth HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45436 - "POST /auth/ue-auth HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45444 - "POST /auth/ue-auth HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'backend/management/schemas/heartbeat.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [22680]
+WARNING:  WatchFiles detected changes in 'backend/management/schemas/heartbeat.py'. Reloading...
+INFO:     Started server process [38677]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'backend/management/schemas/logs.py'. Reloading...
+INFO:     Started server process [38774]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'backend/management/schemas/logs.py'. Reloading...
+WARNING:  WatchFiles detected changes in 'backend/management/schemas/timeline.py'. Reloading...
+INFO:     Started server process [38858]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'backend/management/schemas/timeline.py'. Reloading...
+WARNING:  WatchFiles detected changes in 'backend/management/schemas/alerts.py'. Reloading...
+INFO:     Started server process [38964]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'backend/management/schemas/alerts.py'. Reloading...
+INFO:     Started server process [39032]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'backend/management/routers/advanced.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [39032]
+WARNING:  WatchFiles detected changes in 'backend/management/routers/advanced.py'. Reloading...
+INFO:     Started server process [39214]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'backend/management/main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [39214]
+INFO:     Started server process [39551]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'backend/management/main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [39551]
+INFO:     Started server process [39658]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.

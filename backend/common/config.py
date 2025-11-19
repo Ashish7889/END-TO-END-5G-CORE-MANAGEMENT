@@ -1,5 +1,6 @@
 from functools import lru_cache
 from pathlib import Path
+from typing import ClassVar
 
 from pydantic import Field
 from pydantic_settings import BaseSettings, SettingsConfigDict
@@ -8,7 +9,7 @@ from pydantic_settings import BaseSettings, SettingsConfigDict
 class Settings(BaseSettings):
     """Central project configuration loaded from environment variables."""
 
-    project_root = Path(__file__).resolve().parents[2]
+    project_root: ClassVar[Path] = Path(__file__).resolve().parents[2]
 
     model_config = SettingsConfigDict(
         env_file=project_root / ".env",
@@ -24,13 +25,17 @@ class Settings(BaseSettings):
     api_key: str = Field(default="super-secret-admin-key")
     api_key_header: str = Field(default="X-API-Key")
 
-    udm_ausf_base_url: str = Field(default="http://udm-ausf:8010")
-    amf_base_url: str = Field(default="http://amf:8001")
-    smf_base_url: str = Field(default="http://smf:8005")
-    nrf_base_url: str = Field(default="http://nrf:8000")
-    nssf_base_url: str = Field(default="http://nssf:8002")
-    pcf_base_url: str = Field(default="http://pcf:8003")
-    upf_base_url: str = Field(default="http://upf:8004")
+    # Local development URLs (for when running outside Docker)
+    udm_ausf_base_url: str = Field(default="http://localhost:8010")
+    amf_base_url: str = Field(default="http://localhost:8001")
+    smf_base_url: str = Field(default="http://localhost:8005")
+    nrf_base_url: str = Field(default="http://localhost:8000")
+    nssf_base_url: str = Field(default="http://localhost:8002")
+    pcf_base_url: str = Field(default="http://localhost:8003")
+    upf_base_url: str = Field(default="http://localhost:8004")
+    
+    # Management service port
+    management_port: int = Field(default=8009)
 
     @property
     def database_url_async(self) -> str:
