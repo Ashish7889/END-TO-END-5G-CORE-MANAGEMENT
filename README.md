@@ -51,7 +51,7 @@ Use PostgreSQL and configure environment variables through `.env` (optional). De
 
 ```
 POSTGRES_USER=core_admin
-POSTGRES_PASSWORD=core_password
+POSTGRES_PASSWORD=<set-in-.env>
 POSTGRES_HOST=postgres
 POSTGRES_PORT=5432
 POSTGRES_DB=core_mgmt
